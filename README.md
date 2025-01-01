@@ -61,6 +61,9 @@ pip install pytrends tweepy requests pandas nltk sklearn matplotlib seaborn tran
 ```
 
 ---
+Kaggle Direct Link
+[Kaggle Notebook: Sentiment Analysis](https://www.kaggle.com/code/sanchris/sentiment-analysis-kyn)  
+[Kaggle Notebook: Data Scraping](https://www.kaggle.com/code/sanchris/data-scrapping/)
 
 ## How to Use
 
